@@ -1,21 +1,6 @@
 OK let's get this ZK ontology and methodology straight!!!
 
-highest priority tiers then everything else underneath may interconnext
-with recurrent backlinks and #tags
 
-this is essentially the2nd brain gRAG
-
-
-x.ai twitter trends *for me* puppeteer scraper
-https://x.com/explore/tabs/for-you
-
-___
-
-# YT
-#### TechwTime
-## Arjan
-https://www.youtube.com/@ArjanCodes
-### https://www.youtube.com/@ArjanCodes
 
 
 ___
