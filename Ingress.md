@@ -48,6 +48,8 @@ ARCHITECTURE:
                     └──────────────────┘
 """
 
+
+```python
 # ═══ Component 1: Entity Resolution ═══
 # The HARDEST part of ingress
 
@@ -354,6 +356,7 @@ class GraphIngestor:
                 pass
         
         return conn
+```
 
 
 # ═══ Usage Example ═══
