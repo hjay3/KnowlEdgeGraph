@@ -1,6 +1,4 @@
-what is cayley graph query engine in golang and related to etcd and leveldb i think and why is go so good for this and would rust be as good or better or not? pls explain at postgrad CS levels
-what is cayley graph query engine in golang and related to etcd and leveldb i think and why is go so good for this and would rust be as good or better or not? pls explain at postgrad CS levels
-Cayley is an open‑source graph database and query engine written in Go that stores data as quads and runs on pluggable backends (LevelDB, Bolt, SQL, etc.); Go’s lightweight concurrency, simple deployment model, and rich KV/DB ecosystem made Cayley practical, while Rust could yield lower-latency, memory‑safe implementations at higher engineering cost. 
+
 
 Quick decision guide (what to ask yourself)
 Do you need fast developer iteration, simple deployment, and a working graph stack now? Choose Go/Cayley.
